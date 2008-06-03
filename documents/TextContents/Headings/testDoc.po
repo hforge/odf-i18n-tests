@@ -1,0 +1,10 @@
+msgid "This is a big heading"
+msgstr ""
+
+msgid "This is a smaller heading"
+msgstr ""
+
+msgid "This is a sub-sub heading"
+msgstr ""
+
+
