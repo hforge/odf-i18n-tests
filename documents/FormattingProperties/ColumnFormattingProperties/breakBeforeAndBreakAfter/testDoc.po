@@ -1,0 +1,26 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table with different break before or after the column."
+msgstr ""
+
+msgid "cell number1"
+msgstr ""
+
+msgid "cell number2"
+msgstr ""
+
+msgid "cell number3"
+msgstr ""
+
+msgid "cell number4"
+msgstr ""
