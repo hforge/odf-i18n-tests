@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is (tab)<text:tab/>an example of paragraph with a tab type char and its char is \"a\"."
+msgstr ""
+
+msgid "this is (tab)<text:tab/>an example of paragraph with a tab type char and its char is \"b\"."
+msgstr ""
+
+msgid "this is (tab)<text:tab/>an example of paragraph with a tab type char and its char is \"c\"."
+msgstr ""
