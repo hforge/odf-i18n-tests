@@ -1,0 +1,29 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph with double border."
+msgstr ""
+
+msgid "The width of inner line is 0.0008 inch, the distance between two line is 0.0138 inch, and the width of the outer line is 0.0008 inch."
+msgstr ""
+
+msgid "The width of inner line is 0.03 inch, the distance between two line is 0.0138 inch, and the width of the outer line is 0.0008 inch."
+msgstr ""
+
+msgid "The width of inner line is 0.0008 inch, the distance between two line is 0.0138 inch, and the width of the outer line is 0.03 inch."
+msgstr ""
+
+msgid "The width of inner line is 0.0008 inch, the distance between two line is 0.4 inch, and the width of the outer line is 0.0008 inch."
+msgstr ""
+
+msgid "The width of inner line in left side is 0.0008 inch, the distance between two line in left side is 0.3 inch, and the width of the outer line in left side is 0.03 inch."
+msgstr ""
