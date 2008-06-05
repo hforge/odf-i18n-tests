@@ -1,0 +1,26 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph without a page break or column break."
+msgstr ""
+
+msgid "This is an example of paragraph with a column break before the paragraph."
+msgstr ""
+
+msgid "This is an example of paragraph with a page break before the paragraph."
+msgstr ""
+
+msgid "This is an example of paragraph with a column break after the paragraph."
+msgstr ""
+
+msgid "This is an example of paragraph with a page break after the paragraph."
+msgstr ""
