@@ -10,5 +10,5 @@ msgstr ""
 msgid "true"
 msgstr ""
 
-msgid "This test document checks user defined meta elements of a document "
+msgid "This test document checks user defined meta elements of a document"
 msgstr ""
