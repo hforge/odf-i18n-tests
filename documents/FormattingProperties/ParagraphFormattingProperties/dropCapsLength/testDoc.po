@@ -1,0 +1,23 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph with drop caps."
+msgstr ""
+
+msgid "This is also an example of drop caps with length of 1."
+msgstr ""
+
+msgid "This is also an example of drop caps with length of 2."
+msgstr ""
+
+msgid "This is also an example of drop caps with length of 3."
+msgstr ""
