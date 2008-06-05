@@ -1,0 +1,29 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph with border."
+msgstr ""
+
+msgid "The line arrangement is top, bottom, left and right."
+msgstr ""
+
+msgid "The line arrangement is top and bottom."
+msgstr ""
+
+msgid "The line arrangement is left and right."
+msgstr ""
+
+msgid "The line arrangement is right only."
+msgstr ""
+
+msgid "The line arrangement is bottom only."
+msgstr ""
