@@ -33,7 +33,19 @@ if __name__ == '__main__':
     nb_errors = 0
     for odf_handler, po_handler in unitests_handlers:
         i+=1
-        odf_messages = sorted(odf_handler.get_messages(), key=criterium)
+        list_msgid = []
+        messages_to_remove = []
+        odf_messages = list(odf_handler.get_messages())
+        # Remove odf doublons
+        for message in odf_messages:
+            if message.msgid in list_msgid:
+                messages_to_remove.append(message)
+            else:
+                list_msgid.append(message.msgid);
+        for message_to_remove in messages_to_remove:
+            odf_messages.remove(message_to_remove)
+
+        odf_messages = sorted(odf_messages, key=criterium)
         po_messages = sorted(po_handler.get_messages(), key=criterium)
         if odf_messages != po_messages:
             nb_errors+=1
