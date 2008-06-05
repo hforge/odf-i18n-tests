@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table that allows the column width is recalculated automatically if some content in the column changes."
+msgstr ""
+
+msgid "content change...content change...content change..."
+msgstr ""
+
+msgid "this is an example of table that doesn't allow the column width is recalculated automatically if some content in the column changes."
+msgstr ""
