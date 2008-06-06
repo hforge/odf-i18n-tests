@@ -1,0 +1,23 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph with the<text:span text:style-name="T1"> Vertical Alignment of bottom.</text:span>"
+msgstr ""
+
+msgid "This is an example of paragraph with the <text:span text:style-name="T1">Vertical Alignment of top.</text:span>"
+msgstr ""
+
+msgid "This is an example of paragraph with the <text:span text:style-name="T1">Vertical Alignment of middle.</text:span>"
+msgstr ""
+
+msgid "This is an example of paragraph with the <text:span text:style-name="T1"> Vertical Alignment of auto.</text:span>"
+msgstr ""
