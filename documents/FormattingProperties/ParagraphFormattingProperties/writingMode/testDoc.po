@@ -1,0 +1,62 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph with writing mode of lr-tb."
+msgstr ""
+
+msgid "Inline components and text within a line are written left-to-right."
+msgstr ""
+
+msgid "This is an example of paragraph with writing mode of rl-tb."
+msgstr ""
+
+msgid "Inline components and text within a line are written right-to-left."
+msgstr ""
+
+msgid "Lines and blocks are placed top-to-bottom."
+msgstr ""
+
+msgid "This is an example of paragraph with writing mode of tb-rl."
+msgstr ""
+
+msgid "Inline components and text within a line are written top-to-bottom."
+msgstr ""
+
+msgid "Lines and blocks are placed right-to-left."
+msgstr ""
+
+msgid "This is an example of paragraph with writing mode of tb-lr."
+msgstr ""
+
+msgid "Lines and blocks are placed left-to-right."
+msgstr ""
+
+msgid "This is an example of paragraph with writing mode of lr."
+msgstr ""
+
+msgid "Shorthand for lr-tb."
+msgstr ""
+
+msgid "This is an example of paragraph with writing mode of rl."
+msgstr ""
+
+msgid "Shorthand for rl-tb."
+msgstr ""
+
+msgid "This is an example of paragraph with writing mode of tb."
+msgstr ""
+
+msgid "Shorthand for tb-rl."
+msgstr ""
+
+msgid "the writing mode is inherited from the page that contains the paragraph."
+msgstr ""
