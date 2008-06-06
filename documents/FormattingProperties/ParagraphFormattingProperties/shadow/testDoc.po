@@ -1,0 +1,26 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "The style of shadow is -0.0799in 0.0799in."
+msgstr ""
+
+msgid "The style of shadow is -0.1in 0.1in."
+msgstr ""
+
+msgid "The style of shadow is 2pt 2pt."
+msgstr ""
+
+msgid "The style of shadow is 4pt 4pt."
+msgstr ""
+
+msgid "This is an example of paragraph with shade in border."
+msgstr ""
