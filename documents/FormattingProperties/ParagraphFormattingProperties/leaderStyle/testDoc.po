@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is (tab)<text:tab/>an example of paragraph with tab stop at 3in, whose leader line style is dotted."
+msgstr ""
+
+msgid "this is (tab)<text:tab/>an example of paragraph with tab stop at 3in, whose leader line style is solid."
+msgstr ""
+
+msgid "this is (tab)<text:tab/>an example of paragraph with tab stop at 3in, whose leader line style is wave."
+msgstr ""
