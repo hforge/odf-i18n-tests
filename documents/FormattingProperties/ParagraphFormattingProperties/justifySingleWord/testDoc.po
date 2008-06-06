@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of using the style:justify-single-word property to specify whether or not a single word should be justified."
+msgstr ""
+
+msgid "(true)"
+msgstr ""
+
+msgid "(false)"
+msgstr ""
