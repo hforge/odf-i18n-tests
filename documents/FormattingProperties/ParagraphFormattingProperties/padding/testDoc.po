@@ -1,0 +1,29 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph with border."
+msgstr ""
+
+msgid "the spacing around the paragraph is 0.01 inch."
+msgstr ""
+
+msgid "the spacing around the paragraph is 0.1 inch."
+msgstr ""
+
+msgid "the spacing around the paragraph is 1 inch."
+msgstr ""
+
+msgid "the top spacing around the paragraph is 1 inch."
+msgstr ""
+
+msgid "the right spacing around the paragraph is 1 inch."
+msgstr ""
