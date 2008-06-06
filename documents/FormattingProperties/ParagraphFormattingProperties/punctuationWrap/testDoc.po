@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph whether or not a punctuation mark, if one is present, can be hanging, that is, whether it can placed in the margin area at the end of a full line of text."
+msgstr ""
+
+msgid "This is a common setting in East Asian typography."
+msgstr ""
+
+msgid "你好你好你好你好你好你好你好你好你好你好你好你好你好你好你好你好你好你好你；"
+msgstr ""
