@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph with background image, and the background image is not repeated in the paragraph."
+msgstr ""
+
+msgid "This is an example of paragraph with background image, and the background image is repeated in the paragraph."
+msgstr ""
+
+msgid "This is an example of paragraph with background image, and the background image is stretched in the paragraph."
+msgstr ""
