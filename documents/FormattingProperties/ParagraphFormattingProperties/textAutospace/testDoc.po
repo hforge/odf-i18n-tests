@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph whether add space between Asian, western, and complex text."
+msgstr ""
+
+msgid "The first one have no space between English and Chinese."
+msgstr ""
+
+msgid "hello你好hello你好hello你好hello你好"
+msgstr ""
