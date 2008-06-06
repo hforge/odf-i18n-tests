@@ -1,0 +1,14 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "Use the fo:keep-together property to control whether the lines of a paragraph should be kept together on the same page or column (if the value is always), or whether breaks are allowed within the paragraph (if the value is auto)."
+msgstr ""
