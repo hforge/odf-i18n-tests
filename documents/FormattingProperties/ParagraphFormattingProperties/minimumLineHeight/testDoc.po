@@ -1,0 +1,21 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph with line height at least 20pt."
+msgstr ""
+
+msgid "This is an example of paragraph with line height at least 50pt."
+msgstr ""
+
+msgid "This is an example of paragraph with line height at least 200pt."
+msgstr ""
+
