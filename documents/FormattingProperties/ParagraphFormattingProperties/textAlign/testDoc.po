@@ -1,0 +1,29 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of paragraph with text align of start."
+msgstr ""
+
+msgid "This is an example of paragraph with text align of end."
+msgstr ""
+
+msgid "This is an example of paragraph with text align of left."
+msgstr ""
+
+msgid "This is an example of paragraph with text align of right."
+msgstr ""
+
+msgid "This is an example of paragraph with text align of center."
+msgstr ""
+
+msgid "This is an example of paragraph with text align of justify."
+msgstr ""
