@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table cells with the content of a cell is displayed as many times as there is space left in the cell's writing direction."
+msgstr ""
+
+msgid "style:repeat-content has been set to true."
+msgstr ""
+
+msgid "style:repeat-content has been set to false."
+msgstr ""
