@@ -1,0 +1,26 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table, the text in different cells have different vertical alignments."
+msgstr ""
+
+msgid "top"
+msgstr ""
+
+msgid "middle"
+msgstr ""
+
+msgid "bottom"
+msgstr ""
+
+msgid "automatic..automatic..automatic.."
+msgstr ""
