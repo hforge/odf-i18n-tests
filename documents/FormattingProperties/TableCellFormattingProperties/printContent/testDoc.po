@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table cells with different print option."
+msgstr ""
+
+msgid "this cell will be ignore when the table is printed."
+msgstr ""
+
+msgid "this cell will not be ignore when the table is printed."
+msgstr ""
