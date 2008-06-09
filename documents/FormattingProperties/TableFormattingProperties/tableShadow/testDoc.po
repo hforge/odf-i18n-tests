@@ -1,0 +1,23 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table with the shadow."
+msgstr ""
+
+msgid "The shadow type is \"#000000 2pt 2pt\"."
+msgstr ""
+
+msgid "The shadow type is \"#000000 4pt 4pt\"."
+msgstr ""
+
+msgid "The shadow type is \"#000000 -0.1in 0.1in\"."
+msgstr ""
