@@ -1,0 +1,23 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table where breaks are allowed in the cell."
+msgstr ""
+
+msgid "the contents in this row will be separated into two pages."
+msgstr ""
+
+msgid "this is an example of table where the contents of a table cell should be kept together on the same page or column."
+msgstr ""
+
+msgid "the contents in this row will not be separated into two pages."
+msgstr ""
