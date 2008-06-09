@@ -1,0 +1,23 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table with the left alignment."
+msgstr ""
+
+msgid "this is an example of table with the right alignment."
+msgstr ""
+
+msgid "this is an example of table with the center alignment."
+msgstr ""
+
+msgid "this is an example of table with the margins alignment."
+msgstr ""
