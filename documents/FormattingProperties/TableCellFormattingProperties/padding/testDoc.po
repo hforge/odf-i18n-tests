@@ -1,0 +1,26 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table cell with different type of padding styles."
+msgstr ""
+
+msgid "this is an example of 0.1 inch padding."
+msgstr ""
+
+msgid "this is an example of 1 inch padding."
+msgstr ""
+
+msgid "this is an example of 1 inch top padding."
+msgstr ""
+
+msgid "this is an example of 1 inch right padding."
+msgstr ""
