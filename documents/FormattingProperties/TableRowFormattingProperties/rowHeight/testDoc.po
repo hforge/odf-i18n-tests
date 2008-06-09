@@ -1,0 +1,23 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table with minimum row height of 1cm and fixed row height of 2cm."
+msgstr ""
+
+msgid "a lot of content but not exceed the fixed height."
+msgstr ""
+
+msgid "this is an example of table with minimum and fixed row height of 1cm."
+msgstr ""
+
+msgid "a lot of content and exceed the fixed height."
+msgstr ""
