@@ -1,0 +1,26 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table cells with different rotation angles."
+msgstr ""
+
+msgid "rotation angle 10 degree"
+msgstr ""
+
+msgid "rotation angle 40 degree"
+msgstr ""
+
+msgid "rotation angle 70 degree"
+msgstr ""
+
+msgid "rotation angle 100 degree"
+msgstr ""
