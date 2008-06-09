@@ -1,0 +1,26 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table with different cell borders and different border line width type."
+msgstr ""
+
+msgid "double all"
+msgstr ""
+
+msgid "double top only"
+msgstr ""
+
+msgid "double bottom only"
+msgstr ""
+
+msgid "double left only"
+msgstr ""
