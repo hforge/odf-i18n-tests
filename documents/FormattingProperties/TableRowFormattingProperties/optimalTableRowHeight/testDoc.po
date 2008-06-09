@@ -1,0 +1,23 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table whose height may be recalculated automatically if some content in the row changes."
+msgstr ""
+
+msgid "a lot of content so that the height change."
+msgstr ""
+
+msgid "this is an example of table whose height isn't recalculated automatically if some content in the row changes."
+msgstr ""
+
+msgid "a lot of content but the height doesn't change."
+msgstr ""
