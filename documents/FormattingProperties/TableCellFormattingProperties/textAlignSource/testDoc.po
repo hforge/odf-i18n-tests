@@ -1,0 +1,29 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of table, the source align property in first 2 cells are \"fix\", which means the alignment depends on fo:text-align."
+msgstr ""
+
+msgid "The second 2 cells are \"value-type\" which means the text alignment depends on the value-type of the cell."
+msgstr ""
+
+msgid "left alignment"
+msgstr ""
+
+msgid "right alignment"
+msgstr ""
+
+msgid "12:00:00 AM"
+msgstr ""
+
+msgid "30,458.00 USD"
+msgstr ""
