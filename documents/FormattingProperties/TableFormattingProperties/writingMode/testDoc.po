@@ -1,0 +1,38 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table with different writing modes."
+msgstr ""
+
+msgid "this is the table with writing mode of \"lr-tb\"."
+msgstr ""
+
+msgid "this is the table with writing mode of \"rl-tb\"."
+msgstr ""
+
+msgid "this is the table with writing mode of \"tb-rl\"."
+msgstr ""
+
+msgid "this is the table with writing mode of \"tb-lr\"."
+msgstr ""
+
+msgid "this is the table with writing mode of \"lr\"."
+msgstr ""
+
+msgid "this is the table with writing mode of \"rl\"."
+msgstr ""
+
+msgid "this is the table with writing mode of \"tb\"."
+msgstr ""
+
+msgid "this is the table with writing mode of \"page\"."
+msgstr ""
