@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of table cell which disable or enable wrap."
+msgstr ""
+
+msgid "this is an example of disable wrap so that the application determines whether the clipped text is visible or hidden."
+msgstr ""
+
+msgid "this is an example of enable wrap so that the text is hidden applications may support a scrolling mechanism to access the text."
+msgstr ""
