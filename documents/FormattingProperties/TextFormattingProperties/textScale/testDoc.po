@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of decreasing 30% text width."
+msgstr ""
+
+msgid "This is an example of decreasing 70% text width."
+msgstr ""
+
+msgid "This is an example of increasing 200% text width."
+msgstr ""
