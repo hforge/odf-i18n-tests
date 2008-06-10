@@ -1,0 +1,17 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of text supporting hyphenation and the minimum number of characters that are moved to the next line is 7."
+msgstr ""
+
+msgid "This is an example of text supporting hyphenation and the minimum number of characters that are moved to the next line is 4."
+msgstr ""
