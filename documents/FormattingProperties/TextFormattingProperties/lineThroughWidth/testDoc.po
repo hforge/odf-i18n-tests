@@ -1,0 +1,38 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of text with line through whose width is auto."
+msgstr ""
+
+msgid "this is an example of text with line through whose width is normal."
+msgstr ""
+
+msgid "this is an example of text with line through whose width is bold."
+msgstr ""
+
+msgid "this is an example of text with line through whose width is thin."
+msgstr ""
+
+msgid "this is an example of text with line through whose width is dash."
+msgstr ""
+
+msgid "this is an example of text with line through whose width is medium."
+msgstr ""
+
+msgid "this is an example of text with line through whose width is thick."
+msgstr ""
+
+msgid "this is an example of text with line through whose width is 15."
+msgstr ""
+
+msgid "this is an example of text with line through whose style is 30%."
+msgstr ""
