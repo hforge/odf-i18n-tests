@@ -1,0 +1,23 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "A test document to test meta elements"
+msgstr ""
+
+msgid "This is left alignment."
+msgstr ""
+
+msgid "This is centered alignment."
+msgstr ""
+
+msgid "This is right alignment."
+msgstr ""
+
+msgid "This is justified alignment."
+msgstr ""
