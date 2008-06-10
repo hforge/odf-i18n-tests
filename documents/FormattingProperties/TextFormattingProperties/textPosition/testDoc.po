@@ -1,0 +1,23 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This test case checks text position, this is an example of text with <text:span text:style-name=\"T1\">text position of 50%</text:span>"
+msgstr ""
+
+msgid "This test case checks text position, this is an example of text with <text:span text:style-name=\"T2\">text position of sub</text:span>"
+msgstr ""
+
+msgid "This test case checks text position, this is an example of text with <text:span text:style-name=\"T3\">text position of sub and 130%</text:span>"
+msgstr ""
+
+msgid "This test case checks text position, this is an example of text with <text:span text:style-name=\"T4\">text position of super and 130%</text:span>"
+msgstr ""
