@@ -1,0 +1,17 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of text with<text:span text:style-name=\"T1\"> rotation</text:span>, and with fixed rotation scale."
+msgstr ""
+
+msgid "This is an example of text with<text:span text:style-name=\"T2\"> rotation</text:span>, and it is scaled to fit into the current line height."
+msgstr ""
