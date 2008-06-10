@@ -1,0 +1,26 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of text with normal font weight"
+msgstr ""
+
+msgid "This is an example of text with bold font weight"
+msgstr ""
+
+msgid "This is an example of text with 100 font weight"
+msgstr ""
+
+msgid "This is an example of text with 500 font weight"
+msgstr ""
+
+msgid "This is an example of text with 900 font weight"
+msgstr ""
