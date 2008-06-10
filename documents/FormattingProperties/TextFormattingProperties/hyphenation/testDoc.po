@@ -13,11 +13,8 @@ msgstr ""
 msgid "This is an example of text don't supporting hyphenation:"
 msgstr ""
 
-msgid "<text:span text:style-name=\"T1\">hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation</text:span>"
+msgid "hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation"
 msgstr ""
 
 msgid "This is an example of text supporting hyphenation:"
-msgstr ""
-
-msgid "<text:span text:style-name=\"T2\">hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation</text:span>"
 msgstr ""
