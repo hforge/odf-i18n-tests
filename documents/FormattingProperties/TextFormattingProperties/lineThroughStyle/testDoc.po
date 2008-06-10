@@ -1,0 +1,35 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example of text without line through."
+msgstr ""
+
+msgid "this is an example of text with line trough whose style is solid."
+msgstr ""
+
+msgid "this is an example of text with line trough whose style is dotted."
+msgstr ""
+
+msgid "this is an example of text with line trough whose style is dash."
+msgstr ""
+
+msgid "this is an example of text with line trough whose style is long dash."
+msgstr ""
+
+msgid "this is an example of text with line trough whose style is dot dash."
+msgstr ""
+
+msgid "this is an example of text with line trough whose style is dot dot dash."
+msgstr ""
+
+msgid "this is an example of text with line trough whose style is wave."
+msgstr ""
