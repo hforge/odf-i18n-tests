@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of text <text:span text:style-name=\"T1\">without underline.</text:span>"
+msgstr ""
+
+msgid "This is an example of text <text:span text:style-name=\"T2\">with single underline.</text:span>"
+msgstr ""
+
+msgid "This is an example of text <text:span text:style-name=\"T3\">with double underline.</text:span>"
+msgstr ""
