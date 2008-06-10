@@ -1,0 +1,41 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of text with underline, the underline width is auto."
+msgstr ""
+
+msgid "This is an example of text with underline, the underline width is normal."
+msgstr ""
+
+msgid "This is an example of text with underline, the underline width is bold."
+msgstr ""
+
+msgid "This is an example of text with underline, the underline width is thin."
+msgstr ""
+
+msgid "This is an example of text with underline, the underline width is dash."
+msgstr ""
+
+msgid "This is an example of text with underline, the underline width is medium."
+msgstr ""
+
+msgid "This is an example of text with underline, the underline width is thick."
+msgstr ""
+
+msgid "This is an example of text with underline, the underline width is 10."
+msgstr ""
+
+msgid "This is an example of text with underline, the underline width is 50%."
+msgstr ""
+
+msgid "This is an example of text with underline, the underline width is 5pt."
+msgstr ""
