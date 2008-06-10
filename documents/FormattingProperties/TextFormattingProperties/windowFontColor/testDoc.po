@@ -1,0 +1,23 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "this is an example that the window foreground color should be as used as the foreground color for a light background color."
+msgstr ""
+
+msgid "this is an example that the window foreground color should be as used as white for a dark background color."
+msgstr ""
+
+msgid "this is an example that the window foreground color should not be as used as the foreground color for a light background color."
+msgstr ""
+
+msgid "this is an example that the window foreground color should not be as used as white for a dark background color."
+msgstr ""
