@@ -1,0 +1,17 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "the following is an example that using text combine start from c and end with u:"
+msgstr ""
+
+msgid "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+msgstr ""
