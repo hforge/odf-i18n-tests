@@ -1,0 +1,14 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "A test document to test meta elements"
+msgstr ""
+
+msgid "In this paragraphs <text:span text:style-name=\"my-italic\">these words are emphasized</text:span> and <text:span text:style-name=\"my-bold\">these words are emphasized</text:span>."
+msgstr ""
