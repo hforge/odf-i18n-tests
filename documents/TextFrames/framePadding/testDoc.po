@@ -1,0 +1,8 @@
+msgid "Netherlands"
+msgstr ""
+
+msgid "Enschede"
+msgstr ""
+
+msgid "Text centered due to fo:padding"
+msgstr ""
