@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of text with normal font style."
+msgstr ""
+
+msgid "This is an example of text with italic font style."
+msgstr ""
+
+msgid "This is an example of text with oblique font style."
+msgstr ""
