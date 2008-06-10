@@ -1,0 +1,17 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "A test document to test meta elements"
+msgstr ""
+
+msgid "this is a section with the name of \"Section1\" and style-name \"Sect1\"."
+msgstr ""
+
+msgid "this is a section with the name of \"Section2\" and whose protected attribute is enabled."
+msgstr ""
