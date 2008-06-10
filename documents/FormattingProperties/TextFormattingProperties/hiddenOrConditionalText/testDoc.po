@@ -1,0 +1,29 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This text displays normally:"
+msgstr ""
+
+msgid "<text:span text:style-name=\"t1\">Test Test Test Test</text:span>"
+msgstr ""
+
+msgid "This text is hidden:"
+msgstr ""
+
+msgid "<text:span text:style-name=\"t2\">Test Test Test Test</text:span>"
+msgstr ""
+
+msgid "This text is conditional hidden:"
+msgstr ""
+
+msgid "<text:span text:style-name=\"t3\">Test Test Test Test</text:span>"
+msgstr ""
