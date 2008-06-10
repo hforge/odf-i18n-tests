@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is an example of text with different language."
+msgstr ""
+
+msgid "the following is Chinese word which means \"how are you\"."
+msgstr ""
+
+msgid "你好"
+msgstr ""
