@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "A test document to test meta elements"
+msgstr ""
+
+msgid "how are you doing."
+msgstr ""
+
+msgid "ready to restart from 80."
+msgstr ""
+
+msgid "test start-value for list"
+msgstr ""
