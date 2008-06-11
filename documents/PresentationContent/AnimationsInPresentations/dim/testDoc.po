@@ -1,0 +1,17 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "Example of dim(green)"
+msgstr ""
+
+msgid "Example of dim2(red)"
+msgstr ""
