@@ -1,0 +1,17 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "effect1 activate by mouse click"
+msgstr ""
+
+msgid "effect2 activate by 2 seconds after the finish of effect1"
+msgstr ""
