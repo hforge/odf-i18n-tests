@@ -1,0 +1,20 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword, Second keyword, Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "This is a example of presentation."
+msgstr ""
+
+msgid "The presentation will be shown endless."
+msgstr ""
+
+msgid "3 seconds later than the last page, the presentation will start again."
+msgstr ""
