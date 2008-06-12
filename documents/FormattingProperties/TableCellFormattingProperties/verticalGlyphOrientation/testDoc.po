@@ -4,7 +4,13 @@ msgstr ""
 msgid "Subject of the document"
 msgstr ""
 
-msgid "First keyword, Second keyword, Third keyword"
+msgid "First keyword"
+msgstr ""
+
+msgid "Second keyword"
+msgstr ""
+
+msgid "Third keyword"
 msgstr ""
 
 msgid "Copyright (C) 2006 Intel Corporation."
