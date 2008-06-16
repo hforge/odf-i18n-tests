@@ -1,0 +1,35 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword"
+msgstr ""
+
+msgid "Second keyword"
+msgstr ""
+
+msgid "Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""
+
+msgid "example of graphic"
+msgstr ""
+
+msgid "Outline1"
+msgstr ""
+
+msgid "Outline2"
+msgstr ""
+
+msgid "Outline3"
+msgstr ""
