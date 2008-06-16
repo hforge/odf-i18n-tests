@@ -1,0 +1,35 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword"
+msgstr ""
+
+msgid "Second keyword"
+msgstr ""
+
+msgid "Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""
+
+msgid "This is an example of presentation shape used as the class of handout."
+msgstr ""
+
+msgid "This is an example of presentation shape used as the class of handout2."
+msgstr ""
+
+msgid "This is an example of presentation shape used as the class of handout3."
+msgstr ""
+
+msgid "This is an example of presentation shape used as the class of handout4."
+msgstr ""
