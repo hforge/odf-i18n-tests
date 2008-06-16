@@ -1,0 +1,5 @@
+msgid "Title"
+msgstr ""
+
+msgid "Lotzi Boloni"
+msgstr ""
