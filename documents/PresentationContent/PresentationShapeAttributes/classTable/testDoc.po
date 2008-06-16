@@ -1,0 +1,2 @@
+msgid "Example of table"
+msgstr ""
