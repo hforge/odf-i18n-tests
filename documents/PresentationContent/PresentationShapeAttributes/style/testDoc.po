@@ -1,0 +1,32 @@
+msgid "Meta Test Document"
+msgstr ""
+
+msgid "Subject of the document"
+msgstr ""
+
+msgid "First keyword"
+msgstr ""
+
+msgid "Second keyword"
+msgstr ""
+
+msgid "Third keyword"
+msgstr ""
+
+msgid "Copyright (C) 2006 Intel Corporation."
+msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""
+
+msgid "This is a example of presentation shape."
+msgstr ""
+
+msgid "This is a example of presentation shape in a special layout which has title and subtitle placeholders."
+msgstr ""
+
+msgid "This is an example of drawing shape."
+msgstr ""
