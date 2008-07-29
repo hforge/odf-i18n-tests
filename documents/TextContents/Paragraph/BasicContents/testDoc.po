@@ -25,13 +25,13 @@ msgstr ""
 msgid "Three line breaks<text:line-break/><text:line-break/><text:line-break/> with &lt;text:line-break/> end here."
 msgstr ""
 
-msgid "Soft Hyphen &#xAD;"
+msgid "Soft Hyphen ­"
 msgstr ""
 
-msgid "Non-breaking hyphen &#x2011;"
+msgid "Non-breaking hyphen ‑"
 msgstr ""
 
-msgid "No break space &#xA0;"
+msgid "No break space  "
 msgstr ""
 
 msgid "Majid Ali Khan"
