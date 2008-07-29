@@ -19,19 +19,13 @@ msgstr ""
 msgid "This text displays normally:"
 msgstr ""
 
-msgid "<text:span text:style-name=\"t1\">Test Test Test Test</text:span>"
+msgid "Test Test Test Test"
 msgstr ""
 
 msgid "This text is hidden:"
 msgstr ""
 
-msgid "<text:span text:style-name=\"t2\">Test Test Test Test</text:span>"
-msgstr ""
-
 msgid "This text is conditional hidden:"
-msgstr ""
-
-msgid "<text:span text:style-name=\"t3\">Test Test Test Test</text:span>"
 msgstr ""
 
 msgid "Yi Luo"
