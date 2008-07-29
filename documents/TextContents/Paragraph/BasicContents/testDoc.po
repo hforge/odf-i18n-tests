@@ -7,22 +7,22 @@ msgstr ""
 msgid "One space before this paragraph."
 msgstr ""
 
-msgid "Ten <text:s text:c=\"9\" /> spaces with &lt;text:s text:c=&quot;9&quot; /&gt;; with one default space."
+msgid "Ten <text:s text:c=\"9\"/> spaces with &lt;text:s text:c="9" />;"
 msgstr ""
 
-msgid "Ten<text:s text:c=\"10\" />spaces with &lt;text:s text:c=&quot;10&quot; /&gt;."
+msgid "Ten<text:s text:c=\"10\"/>spaces with &lt;text:s text:c="10" />."
 msgstr ""
 
-msgid "Three <text:s/><text:s/> spaces with &lt;text:s /&gt;."
+msgid "Three <text:s/><text:s/> spaces with &lt;text:s />."
 msgstr ""
 
-msgid "Three<text:tab text:tab-ref=\"3\" />tabs with &lt;text:tab text:tab-ref=&quot;3&quot; /&gt;."
+msgid "Three<text:tab text:tab-ref=\"3\"/>tabs with &lt;text:tab text:tab-ref="3" />."
 msgstr ""
 
-msgid "Three<text:tab/><text:tab/><text:tab/>tabs with &lt;text:tab/&gt;."
+msgid "Three<text:tab/><text:tab/><text:tab/>tabs with &lt;text:tab/>."
 msgstr ""
 
-msgid "Three line breaks<text:line-break/><text:line-break/><text:line-break/> with &lt;text:line-break/&gt; end here."
+msgid "Three line breaks<text:line-break/><text:line-break/><text:line-break/> with &lt;text:line-break/> end here."
 msgstr ""
 
 msgid "Soft Hyphen &#xAD;"
@@ -35,4 +35,7 @@ msgid "No break space &#xA0;"
 msgstr ""
 
 msgid "Majid Ali Khan"
+msgstr ""
+
+msgid "with one default space."
 msgstr ""

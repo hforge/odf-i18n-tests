@@ -25,9 +25,6 @@ msgstr ""
 msgid "this is (tab)<text:tab/>an example of paragraph with tab stop at 3in, whose leader line width is thin."
 msgstr ""
 
-msgid ""
-msgstr ""
-
 msgid "Yi Luo"
 msgstr ""
 
