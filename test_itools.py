@@ -17,7 +17,7 @@
 
 # Import from the Standard Library
 from operator import attrgetter
-from pprint import pprint
+from pprint import pprint, pformat
 
 # Import from odf i18n tests
 from utils import get_unitests_handlers
@@ -49,18 +49,31 @@ if __name__ == '__main__':
         po_messages = sorted(po_handler.get_messages(), key=criterium)
         if odf_messages != po_messages:
             nb_errors+=1
-            print 25*'='
-            print 'Test %d FAILED' % i
-            print 25*'='
-            print odf_handler.uri
-            print po_handler.uri
+            test_name = str(odf_handler.uri).split('/')[-2]
+            file_name = 'test_%d_%s.odf.txt' % (i, test_name)
+            file_path = './tests_results/%s' % file_name
+            odf_results = file(file_path,'w')
+            odf_results.write(25*'=')
+            odf_results.write('Test %d FAILED' %i)
+            odf_results.write(25*'=' + '\n')
+            odf_results.write(str(odf_handler.uri) + '\n')
+            odf_results.write('')
+            odf_results.write(pformat(odf_messages))
+            odf_results.close
+            print file_name + ' has been generated'
+            file_name = 'test_%d_%s.po.txt' % (i, test_name)
+            file_path = './tests_results/%s' % file_name
+            po_results = file(file_path,'w')
+            po_results.write(25*'=')
+            po_results.write('Test %d FAILED' %i)
+            po_results.write(25*'=' + '\n')
+            po_results.write(str(po_handler.uri) + '\n')
+            po_results.write('')
+            po_results.write(pformat(po_messages))
+            po_results.close
+            print file_name + ' has been generated'
             print
-            pprint(odf_messages)
-            print
-            print 'Different of:'
-            print
-            pprint(po_messages)
-    print
+
     print 25*'='
     print 'Results'
     print 25*'='
