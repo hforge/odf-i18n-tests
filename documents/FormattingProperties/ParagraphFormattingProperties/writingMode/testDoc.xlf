@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="./FormattingProperties/ParagraphFormattingProperties/writingMode/testDoc.po" source-language="en-US" datatype="po">
+    <body>
+      <trans-unit id="1" xml:space="preserve" approved="no">
+        <source>Meta Test Document</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2" xml:space="preserve" approved="no">
+        <source>Subject of the document</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3" xml:space="preserve" approved="no">
+        <source>First keyword</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4" xml:space="preserve" approved="no">
+        <source>Second keyword</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="5" xml:space="preserve" approved="no">
+        <source>Third keyword</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="6" xml:space="preserve" approved="no">
+        <source>Copyright (C) 2006 Intel Corporation.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="7" xml:space="preserve" approved="no">
+        <source>This is an example of paragraph with writing mode of lr-tb.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="8" xml:space="preserve" approved="no">
+        <source>Inline components and text within a line are written left-to-right.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="9" xml:space="preserve" approved="no">
+        <source>This is an example of paragraph with writing mode of rl-tb.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="10" xml:space="preserve" approved="no">
+        <source>Inline components and text within a line are written right-to-left.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="11" xml:space="preserve" approved="no">
+        <source>Lines and blocks are placed top-to-bottom.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="12" xml:space="preserve" approved="no">
+        <source>This is an example of paragraph with writing mode of tb-rl.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="13" xml:space="preserve" approved="no">
+        <source>Inline components and text within a line are written top-to-bottom.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="14" xml:space="preserve" approved="no">
+        <source>Lines and blocks are placed right-to-left.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="15" xml:space="preserve" approved="no">
+        <source>This is an example of paragraph with writing mode of tb-lr.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="16" xml:space="preserve" approved="no">
+        <source>Lines and blocks are placed left-to-right.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="17" xml:space="preserve" approved="no">
+        <source>This is an example of paragraph with writing mode of lr.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="18" xml:space="preserve" approved="no">
+        <source>Shorthand for lr-tb.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="19" xml:space="preserve" approved="no">
+        <source>This is an example of paragraph with writing mode of rl.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="20" xml:space="preserve" approved="no">
+        <source>Shorthand for rl-tb.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="21" xml:space="preserve" approved="no">
+        <source>This is an example of paragraph with writing mode of tb.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="22" xml:space="preserve" approved="no">
+        <source>Shorthand for tb-rl.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="23" xml:space="preserve" approved="no">
+        <source>the writing mode is inherited from the page that contains the paragraph.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="24" xml:space="preserve" approved="no">
+        <source>Yi Luo</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="25" xml:space="preserve" approved="no">
+        <source>Majid Khan</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="./FormattingProperties/TableFormattingProperties/tableShadow/testDoc.po" source-language="en-US" datatype="po">
+    <body>
+      <trans-unit id="1" xml:space="preserve" approved="no">
+        <source>Meta Test Document</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2" xml:space="preserve" approved="no">
+        <source>Subject of the document</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3" xml:space="preserve" approved="no">
+        <source>First keyword</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4" xml:space="preserve" approved="no">
+        <source>Second keyword</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="5" xml:space="preserve" approved="no">
+        <source>Third keyword</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="6" xml:space="preserve" approved="no">
+        <source>Copyright (C) 2006 Intel Corporation.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="7" xml:space="preserve" approved="no">
+        <source>this is an example of table with the shadow.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="8" xml:space="preserve" approved="no">
+        <source>The shadow type is "#000000 2pt 2pt".</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="9" xml:space="preserve" approved="no">
+        <source>The shadow type is "#000000 4pt 4pt".</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="10" xml:space="preserve" approved="no">
+        <source>The shadow type is "#000000 -0.1in 0.1in".</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="11" xml:space="preserve" approved="no">
+        <source>Yi Luo</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="12" xml:space="preserve" approved="no">
+        <source>Majid Khan</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

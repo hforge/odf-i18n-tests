@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="./TextFrames/frameIndividualPadding/testDoc.po" source-language="en-US" datatype="po">
+    <body>
+      <trans-unit id="1" xml:space="preserve" approved="no">
+        <source>Netherlands</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2" xml:space="preserve" approved="no">
+        <source>Enschede</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3" xml:space="preserve" approved="no">
+        <source>Text centered due to fo:padding</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4" xml:space="preserve" approved="no">
+        <source>Thomas Zander</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="5" xml:space="preserve" approved="no">
+        <source>Copyright (C) 2006 Intel Corporation.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
