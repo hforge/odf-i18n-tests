@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "This test case checks font size, this is an example of text with <text:span text:style-name=\"T2\">font size of 50%</text:span>"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

@@ -18,3 +18,9 @@ msgstr ""
 
 msgid "this is (tab)<text:tab/>an example of paragraph whose (tab)<text:tab/>default tab stop distance is 2in."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

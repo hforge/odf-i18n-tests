@@ -18,3 +18,9 @@ msgstr ""
 
 msgid "this is an example of specifying the foreground color of the text."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

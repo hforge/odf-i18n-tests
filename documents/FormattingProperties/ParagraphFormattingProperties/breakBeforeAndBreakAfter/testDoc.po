@@ -30,3 +30,9 @@ msgstr ""
 
 msgid "This is an example of paragraph with a page break after the paragraph."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

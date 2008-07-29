@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "this is an example of paragraph displaying text as small capitalized letters off."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

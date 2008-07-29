@@ -42,3 +42,9 @@ msgstr ""
 
 msgid "this is the table with writing mode of \"page\"."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

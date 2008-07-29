@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "Ready to start line numbering from 30."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

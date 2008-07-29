@@ -18,3 +18,9 @@ msgstr ""
 
 msgid "this is an example of table cell with different kinds of shadow."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

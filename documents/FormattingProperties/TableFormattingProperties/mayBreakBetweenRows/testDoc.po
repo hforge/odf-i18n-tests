@@ -27,3 +27,9 @@ msgstr ""
 
 msgid "The cell can not split across the page break and the whole table will be displayed in the next page."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

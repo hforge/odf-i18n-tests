@@ -18,3 +18,6 @@ msgstr ""
 
 msgid "In this paragraphs <text:span text:style-name=\"my-italic\">these words are emphasized</text:span> and <text:span text:style-name=\"my-bold\">these words are emphasized</text:span>."
 msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

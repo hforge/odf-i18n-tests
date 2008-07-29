@@ -30,3 +30,9 @@ msgstr ""
 
 msgid "rotation angle 100 degree"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

@@ -21,3 +21,6 @@ msgstr ""
 
 msgid "this is a section with the name of \"Section2\" and whose protected attribute is enabled."
 msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

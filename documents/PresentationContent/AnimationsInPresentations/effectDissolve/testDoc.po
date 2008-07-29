@@ -18,3 +18,9 @@ msgstr ""
 
 msgid "Example of dissolve"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

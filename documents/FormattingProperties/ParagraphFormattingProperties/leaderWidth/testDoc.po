@@ -28,3 +28,8 @@ msgstr ""
 msgid ""
 msgstr ""
 
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

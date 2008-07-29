@@ -27,3 +27,9 @@ msgstr ""
 
 msgid "a lot of content but the height doesn't change."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

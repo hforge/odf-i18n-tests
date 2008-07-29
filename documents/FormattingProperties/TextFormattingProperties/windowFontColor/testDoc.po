@@ -27,3 +27,9 @@ msgstr ""
 
 msgid "this is an example that the window foreground color should not be as used as white for a dark background color."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

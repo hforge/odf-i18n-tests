@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "0 vertical glyph orientation."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

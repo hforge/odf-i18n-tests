@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "This is an example of text with circle below emphasis."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

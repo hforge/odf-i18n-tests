@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "Example of effect 2 executed 2 second after 1st effect finished"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

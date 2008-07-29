@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "page 2"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

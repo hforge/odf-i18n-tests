@@ -18,3 +18,9 @@ msgstr ""
 
 msgid "this is an example of table whose first two lines' background color is red and the following two lines have a background image."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

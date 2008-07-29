@@ -18,3 +18,6 @@ msgstr ""
 
 msgid "This word is <text:span text:style-name=\"T1\">emphasized</text:span>, and this word is <text:span text:style-name=\"T2\">italic</text:span>."
 msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

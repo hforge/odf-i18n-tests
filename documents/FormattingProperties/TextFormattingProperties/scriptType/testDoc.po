@@ -27,3 +27,9 @@ msgstr ""
 
 msgid "This is an example of set script type to ignore."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

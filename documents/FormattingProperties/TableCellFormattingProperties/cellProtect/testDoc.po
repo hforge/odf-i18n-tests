@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "this section is protected."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

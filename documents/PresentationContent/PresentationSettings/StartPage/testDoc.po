@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "the start page of presentation."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

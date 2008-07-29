@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "this is an example of enable wrap so that the text is hidden applications may support a scrolling mechanism to access the text."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

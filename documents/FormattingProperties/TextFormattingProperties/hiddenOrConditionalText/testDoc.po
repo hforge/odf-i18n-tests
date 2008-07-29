@@ -33,3 +33,9 @@ msgstr ""
 
 msgid "<text:span text:style-name=\"t3\">Test Test Test Test</text:span>"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

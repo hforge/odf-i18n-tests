@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "Example of effect stretch2"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

@@ -27,3 +27,9 @@ msgstr ""
 
 msgid "This test case checks text position, this is an example of text with <text:span text:style-name=\"T4\">text position of super and 130%</text:span>"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

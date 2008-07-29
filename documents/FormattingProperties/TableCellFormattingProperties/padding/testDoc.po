@@ -30,3 +30,9 @@ msgstr ""
 
 msgid "this is an example of 1 inch right padding."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

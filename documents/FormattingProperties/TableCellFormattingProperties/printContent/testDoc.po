@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "this cell will not be ignore when the table is printed."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

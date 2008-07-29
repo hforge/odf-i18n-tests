@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "this is an example of table with separating border model."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

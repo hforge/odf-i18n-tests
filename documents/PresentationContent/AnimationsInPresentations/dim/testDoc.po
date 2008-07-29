@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "Example of dim2(red)"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

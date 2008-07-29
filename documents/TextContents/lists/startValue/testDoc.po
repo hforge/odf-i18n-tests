@@ -24,3 +24,6 @@ msgstr ""
 
 msgid "test start-value for list"
 msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

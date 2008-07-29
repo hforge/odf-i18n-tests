@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "This is an example of text with letter kerning: Tr Ke Yr r, To AY y, AT"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

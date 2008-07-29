@@ -27,3 +27,9 @@ msgstr ""
 
 msgid "the distance between the last dropped character and the first of the remaining characters of each line is 3in."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

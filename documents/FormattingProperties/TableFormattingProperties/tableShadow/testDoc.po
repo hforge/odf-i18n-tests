@@ -27,3 +27,9 @@ msgstr ""
 
 msgid "The shadow type is \"#000000 -0.1in 0.1in\"."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

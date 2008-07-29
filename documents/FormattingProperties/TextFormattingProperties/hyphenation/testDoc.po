@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "This is an example of text supporting hyphenation:"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

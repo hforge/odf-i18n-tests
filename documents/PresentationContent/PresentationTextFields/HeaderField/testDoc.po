@@ -27,3 +27,6 @@ msgstr ""
 
 msgid "This is an example of showing the header field in the presentation note."
 msgstr ""
+
+msgid "."
+msgstr ""

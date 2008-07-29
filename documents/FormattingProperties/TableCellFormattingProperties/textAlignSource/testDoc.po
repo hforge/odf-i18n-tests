@@ -33,3 +33,9 @@ msgstr ""
 
 msgid "30,458.00 USD"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

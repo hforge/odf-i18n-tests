@@ -27,3 +27,9 @@ msgstr ""
 
 msgid "the contents in this row will not be separated into two pages."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "This is an example of text supporting hyphenation and the minimum number of characters that are moved to the next line is 4."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

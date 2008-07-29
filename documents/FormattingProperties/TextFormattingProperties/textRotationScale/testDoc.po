@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "This is an example of text with<text:span text:style-name=\"T2\"> rotation</text:span>, and it is scaled to fit into the current line height."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

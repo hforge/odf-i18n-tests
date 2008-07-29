@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "This is an example of paragraph that line numbering is disabled."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

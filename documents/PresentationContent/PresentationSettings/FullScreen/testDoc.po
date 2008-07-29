@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "The presentation will be shown in windows mode."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

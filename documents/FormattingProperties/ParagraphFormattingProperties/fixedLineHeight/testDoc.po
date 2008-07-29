@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "This is an example of paragraph with 50% fixed line height."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

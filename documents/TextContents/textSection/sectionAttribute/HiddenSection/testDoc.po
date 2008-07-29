@@ -21,3 +21,6 @@ msgstr ""
 
 msgid "this section is not displayed"
 msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

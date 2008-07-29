@@ -18,3 +18,6 @@ msgstr ""
 
 msgid "This is an example of bulleted list."
 msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

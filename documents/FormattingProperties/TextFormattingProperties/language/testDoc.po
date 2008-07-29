@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "你好"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "This is an example of text <text:span text:style-name=\"T3\">with double underline.</text:span>"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

@@ -66,3 +66,9 @@ msgstr ""
 
 msgid "the writing mode is inherited from the page that contains the paragraph."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

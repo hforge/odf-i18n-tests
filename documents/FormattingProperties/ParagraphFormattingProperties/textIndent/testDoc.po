@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "This is an example of paragraph with text indent of 2 inch."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

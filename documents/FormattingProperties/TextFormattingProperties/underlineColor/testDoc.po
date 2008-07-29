@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "This is an example of text with underline which has the defined color."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

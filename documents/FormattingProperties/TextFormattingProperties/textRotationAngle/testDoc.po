@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "This is an example of text with<text:span text:style-name=\"T3\"> rotation angle of 170 degree.</text:span>"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

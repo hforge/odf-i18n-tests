@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "Example of effect hide2"
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

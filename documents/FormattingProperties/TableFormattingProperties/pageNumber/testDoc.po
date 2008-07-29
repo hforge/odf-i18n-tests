@@ -18,3 +18,9 @@ msgstr ""
 
 msgid "this is an example of table with the style:page-number set to be 2, the page number that should be used for the first page of the table."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

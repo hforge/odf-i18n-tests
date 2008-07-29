@@ -33,3 +33,6 @@ msgstr ""
 
 msgid "No break space &#xA0;"
 msgstr ""
+
+msgid "Majid Ali Khan"
+msgstr ""

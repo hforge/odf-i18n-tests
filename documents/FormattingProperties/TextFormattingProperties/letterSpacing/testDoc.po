@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "This is an example of text with 5 letter spacing."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

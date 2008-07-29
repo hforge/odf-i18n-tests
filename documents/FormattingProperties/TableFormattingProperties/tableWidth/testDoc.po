@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "this is an example of table with relative table width of 75%."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

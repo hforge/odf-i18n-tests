@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "this is an example of table with the top margin of 0.4 inch and bottom margin of 0.4 inch."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

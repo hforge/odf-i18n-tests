@@ -21,3 +21,9 @@ msgstr ""
 
 msgid "this is an example of text displaying the text itself."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

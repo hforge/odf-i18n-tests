@@ -39,3 +39,9 @@ msgstr ""
 
 msgid "this is an example of text with line trough whose style is wave."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

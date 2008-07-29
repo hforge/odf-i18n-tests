@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "This is an example of paragraph with background image, and the background image is stretched in the paragraph."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

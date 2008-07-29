@@ -27,3 +27,6 @@ msgstr ""
 
 msgid "This is an example of showing footer field in presentation and in its note."
 msgstr ""
+
+msgid "."
+msgstr ""

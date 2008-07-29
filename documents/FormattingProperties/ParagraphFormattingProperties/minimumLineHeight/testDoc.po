@@ -25,3 +25,8 @@ msgstr ""
 msgid "This is an example of paragraph with line height at least 200pt."
 msgstr ""
 
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

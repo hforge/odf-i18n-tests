@@ -39,3 +39,9 @@ msgstr ""
 
 msgid "This is an example of text with wave underline."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

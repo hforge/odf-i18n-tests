@@ -18,3 +18,6 @@ msgstr ""
 
 msgid "The following is a character whose font size is <text:span text:style-name="T1">28.</text:span>"
 msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

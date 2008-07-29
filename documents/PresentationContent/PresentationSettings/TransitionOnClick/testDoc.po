@@ -27,3 +27,9 @@ msgstr ""
 
 msgid "the manual transition by a mouse click during a presentation is disabled."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""

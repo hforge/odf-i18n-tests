@@ -24,3 +24,9 @@ msgstr ""
 
 msgid "This is an example of paragraph with margin (top, bottom, left and right margins for paragraphs simultaneously) of 0.1 inch."
 msgstr ""
+
+msgid "Yi Luo"
+msgstr ""
+
+msgid "Majid Khan"
+msgstr ""
