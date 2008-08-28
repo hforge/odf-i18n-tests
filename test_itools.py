@@ -22,6 +22,7 @@ from sys import stderr
 
 # Import from itools
 from itools.vfs import exists, is_folder, is_file, make_folder, make_file
+from itools.gettext import POUnit
 
 # Import from odf i18n tests
 from utils import get_unitests_handlers
@@ -106,6 +107,11 @@ if __name__ == '__main__':
         # Actualize the progress bar
         progress(test_number, nb_tests)
         odf_units = list(odf_handler.get_units())
+        odf_tmp = list(odf_units)
+        odf_units = []
+        for msgid, references in odf_tmp:
+            message = POUnit([], [msgid], [u''], references=references)
+            odf_units.append(message)
         remove_odf_doublons(odf_units)
         odf_units = sorted(odf_units, key=criterium)
         po_units = sorted(po_handler.get_units(), key=criterium)
