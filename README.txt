@@ -44,7 +44,7 @@ for more details, see:
 Install & Test
 -----------------------
 
-You have to install itools (dvp version - master branch):
+You have to install itools (dev version - master branch):
 
     $ git-clone http://lleu.org/itools.git
     $ python setup.py install

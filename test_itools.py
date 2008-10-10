@@ -23,6 +23,7 @@ from sys import stderr
 # Import from itools
 from itools.vfs import exists, is_folder, is_file, make_folder, make_file
 from itools.gettext import POUnit
+from itools.gettext.po import encode_source
 
 # Import from odf i18n tests
 from utils import get_unitests_handlers
@@ -46,22 +47,17 @@ def get_test_name(odf_uri, test_number):
 
 def write_diff_file(test_infos, test_number):
     """Write a diff file which summarize the failure of a specific test."""
-    diff_file_name, uris, units = test_infos
+    diff_file_name, uris, sources = test_infos
     odf_uri, po_uri = uris
-    odf_units, po_units = units
-    odf_str_msg = []
-    po_str_msg = []
-    # Create a list of units for each types of file
-    for msg in odf_units:
-        odf_str_msg.append(msg.msgid[0])
-    for msg in po_units:
-        po_str_msg.append(msg.msgid[0])
-    diff_file_path = 'results/%s' % diff_file_name
+    odf_sources, po_sources = sources
+
     # Create or open the diff file
+    diff_file_path = 'results/%s' % diff_file_name
     if exists(diff_file_path) and is_file(diff_file_path):
         diff_file = open(diff_file_path, 'w')
     else:
         diff_file = make_file(diff_file_path)
+
     # Write the header
     diff_file.write(25*'=' + 'Test %d FAILED' %test_number + 25*'=' + '\n')
     diff_file.write('INPUT:  ' + str(odf_uri) + '\n')
@@ -72,61 +68,77 @@ def write_diff_file(test_infos, test_number):
         "The '+' sign correcpond to a line that appears after the extraction "
         "but is not expected.\n")
     diff_file.write(25*'=' + 'Test %d FAILED' %test_number + 25*'=' + '\n')
+
     # Write the diff summary
-    for line in ndiff(po_str_msg, odf_str_msg):
+    for line in ndiff(po_sources, odf_sources):
         diff_file.write(line.encode('utf-8') + '\n')
-    diff_file.close
+    diff_file.close()
 
 
-
-def remove_odf_doublons(odf_units):
-    """Remove the duplicated units."""
-    list_msgid = []
-    units_to_remove = []
-    for unit in odf_units:
-        if unit.msgid in list_msgid:
-            units_to_remove.append(unit)
-        else:
-            list_msgid.append(unit.msgid);
-    for unit_to_remove in units_to_remove:
-        odf_units.remove(unit_to_remove)
-
+def get_sources(units):
+    result = []
+    for unit in units:
+        source = u''.join(unit.source)
+        # Remove tags
+        while True:
+            s_cut = source.find('<')
+            f_cut = source.find('>', s_cut)
+            if s_cut < 0 or f_cut < 0:
+                break
+            source = source[:s_cut]+source[f_cut+1:]
+        result.append(source)
+    return result
 
 
 if __name__ == '__main__':
-    criterium = attrgetter('msgid')
     print 'Searching for ODF files...'
-    unitests_handlers = list(get_unitests_handlers())
+    unitests_handlers = get_unitests_handlers()
     nb_tests = len(unitests_handlers)
-    print 'Number of files found: %d' %nb_tests
+    print 'Number of files found: %d' % nb_tests
+
     test_number = 0
     nb_errors = 0
     msgs_error = []
     for odf_handler, po_handler in unitests_handlers:
         test_number+=1
+
         # Actualize the progress bar
         progress(test_number, nb_tests)
-        odf_units = list(odf_handler.get_units())
-        odf_tmp = list(odf_units)
+
         odf_units = []
-        for msgid, references in odf_tmp:
-            message = POUnit([], [msgid], [u''], references=references)
+        for unit, context, references in odf_handler.get_units():
+            source = encode_source(unit)
+            message = POUnit('', None, [source], [u''])
             odf_units.append(message)
-        remove_odf_doublons(odf_units)
-        odf_units = sorted(odf_units, key=criterium)
-        po_units = sorted(po_handler.get_units(), key=criterium)
+        po_units = po_handler.get_units()
+
+        # Get sources
+        odf_sources = get_sources(odf_units)
+        po_sources = get_sources(po_units)
+
+        # Remove the duplicated sources
+        odf_sources = list(set(odf_sources))
+
+        # Sort
+        odf_sources.sort()
+        po_sources.sort()
+
         # If the output file and expected results are different
-        if odf_units != po_units:
+        if odf_sources != po_sources:
             if not is_folder('results'):
                 make_folder('results')
             nb_errors+=1
-            test_name, file_name = get_test_name(odf_handler.uri, test_number)
-            test_infos = [file_name, (odf_handler.uri, po_handler.uri),
-                          (odf_units, po_units)]
+
             # Create a diff report for the current test
+            test_name, file_name = get_test_name(odf_handler.uri,
+                                                 test_number)
+            test_infos = [file_name, (odf_handler.uri, po_handler.uri),
+                          (odf_sources, po_sources)]
             write_diff_file(test_infos, test_number)
+
             # Inform the user that there where failures
-            msgs_error.append('./results/%s has been generated' %file_name)
+            msgs_error.append('./results/%s has been generated' % file_name)
+
     # Summurarizes the results
     stderr.write('\n')
     print 'Results:'
