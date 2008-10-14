@@ -18,6 +18,7 @@
 # Import from the Standard Library
 from operator import attrgetter
 from difflib import ndiff
+from re import compile
 from sys import stderr
 
 # Import from itools
@@ -63,8 +64,8 @@ def write_diff_file(test_infos, test_number):
     diff_file.write('INPUT:  ' + str(odf_uri) + '\n')
     diff_file.write('OUTPUT: ' + str(po_uri) + '\n\n')
     diff_file.write(
-        "The '-' sign correspond to a line that is expected but don't appears "
-        "well or not at all after the extraction.\n"
+        "The '-' sign correspond to a line that is expected but don't "
+        "appears well or not at all after the extraction.\n"
         "The '+' sign correcpond to a line that appears after the extraction "
         "but is not expected.\n")
     diff_file.write(25*'=' + 'Test %d FAILED' %test_number + 25*'=' + '\n')
@@ -77,15 +78,12 @@ def write_diff_file(test_infos, test_number):
 
 def get_sources(units):
     result = []
+    re_tags = compile('<.*?>')
     for unit in units:
+        # Find the source and remove its tags
         source = u''.join(unit.source)
-        # Remove tags
-        while True:
-            s_cut = source.find('<')
-            f_cut = source.find('>', s_cut)
-            if s_cut < 0 or f_cut < 0:
-                break
-            source = source[:s_cut]+source[f_cut+1:]
+        source = re_tags.sub('', source)
+
         result.append(source)
     return result
 
