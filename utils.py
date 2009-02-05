@@ -18,12 +18,12 @@
 from operator import attrgetter
 from difflib import ndiff
 from re import compile
-from sys import stderr
+from sys import stderr, stdout
 
 # Import from itools
 from itools.handlers import get_handler
 from itools.odf import ODTFile, ODPFile, ODSFile
-from itools.vfs import vfs, exists, is_folder, is_file, make_folder, make_file
+from itools import vfs
 
 
 def get_tests():
@@ -47,34 +47,22 @@ def get_tests():
 
 
 
-def progress(current, total, file_descriptor=stderr):
-    """Permit to calculate the work progression."""
+def progress(current, total):
+    """Permit to calculate the work progression.
+    """
     status = current*50/total
     str = '\r[%s>%s] %d/%d' %((status-1)*'=', (50-status)*' ', current, total)
-    file_descriptor.write(str)
+    stdout.write(str)
 
 
 
-def get_test_name(odf_uri, test_number):
-    """Return some informations."""
-    test_name = str(odf_uri).split('/')[-2]
-    file_name = 'test_%d_%s.txt' % (test_number, test_name)
-    return test_name, file_name
-
-
-
-def write_diff_file(test_infos, test_number):
-    """Write a diff file which summarize the failure of a specific test."""
-    diff_file_name, uris, sources = test_infos
-    odf_uri, po_uri = uris
-    odf_sources, po_sources = sources
-
+def write_diff_file(test_number, diff_filename, odf_uri, po_uri, odf_sources,
+                    po_sources):
+    """Write a diff file which summarize the failure of a specific test.
+    """
     # Create or open the diff file
-    diff_file_path = 'results/%s' % diff_file_name
-    if exists(diff_file_path) and is_file(diff_file_path):
-        diff_file = open(diff_file_path, 'w')
-    else:
-        diff_file = make_file(diff_file_path)
+    diff_file_path = 'results/%s' % diff_filename
+    diff_file = vfs.make_file(diff_file_path)
 
     # Write the header
     diff_file.write(25*'=' + 'Test %d FAILED' %test_number + 25*'=' + '\n')
@@ -93,76 +81,67 @@ def write_diff_file(test_infos, test_number):
     diff_file.close()
 
 
-def clean_sources(sources):
-    result = []
-    re_tags = compile('<.*?>')
-    for source in sources:
-        source = re_tags.sub('', source)
-
-        result.append(source)
-    return result
+def clean_sources(sources, re_tags=compile('<.*?>')):
+    return [ re_tags.sub('', x) for x in sources ]
 
 
 def start_test(odf_handler):
+    # Create the 'results' folder
+    if vfs.exists('results'):
+        vfs.remove('results')
+    vfs.make_folder('results')
+
+    # Find test files
     print 'Searching for ODF files...'
     unitests = get_tests()
     nb_tests = len(unitests)
     print 'Number of files found: %d' % nb_tests
 
     test_number = 0
-    nb_errors = 0
     msgs_error = []
     for odf_filename, po_handler in unitests:
-        test_number+=1
+        test_number += 1
 
-        # Actualize the progress bar
+        # Progress bar
         progress(test_number, nb_tests)
 
-        # Get sources
+        # Call ODF handler
         try:
             odf_sources = odf_handler(odf_filename)
         except:
             print 'ERROR with test %d / "%s"' % (test_number,odf_filename)
             continue
-        po_sources = [u''.join(unit.source)
-                      for unit in po_handler.get_units()]
+
+        # Post-process the results
         odf_sources = clean_sources(odf_sources)
-        po_sources = clean_sources(po_sources)
-
-        # Remove the duplicated sources
-        odf_sources = list(set(odf_sources))
-
-        # Sort
+        odf_sources = list(set(odf_sources)) # Remove duplicates
         odf_sources.sort()
+        # Expected results
+        po_sources = [ u''.join(x.source) for x in po_handler.get_units() ]
+        po_sources = clean_sources(po_sources)
         po_sources.sort()
+        # Check
+        if odf_sources == po_sources:
+            continue
 
-        # If the output file and expected results are different
-        if odf_sources != po_sources:
-            if not is_folder('results'):
-                make_folder('results')
-            nb_errors+=1
-
-            # Create a diff report for the current test
-            test_name, file_name = get_test_name(odf_filename, test_number)
-            test_infos = [file_name, (odf_filename, po_handler.uri.path),
-                          (odf_sources, po_sources)]
-            write_diff_file(test_infos, test_number)
-
-            # Inform the user that there where failures
-            msgs_error.append('./results/%s has been generated' % file_name)
+        # Error. Create a diff report for the current test.
+        test_name = str(odf_filename).split('/')[-2]
+        filename = 'test_%d_%s.txt' % (test_number, test_name)
+        write_diff_file(test_number, filename, odf_filename,
+                        po_handler.uri.path, odf_sources, po_sources)
+        # Inform the user that there where failures
+        msgs_error.append('results/%s\n' % filename)
 
     # Summurarizes the results
-    stderr.write('\n')
+    print
     print 'Results:'
     print '--------'
     print '    %s Tests' % nb_tests
-    print '    %s Errors' % nb_errors
+    print '    %s Errors' % len(msgs_error)
+    print
     if msgs_error:
-        print
-        print 'Generated error files:'
-        print '---------'
+        stderr.write('Generated error files\n')
+        stderr.write('---------------------\n')
         for msg in msgs_error:
-            print '    %s' % msg
-
-
+            stderr.write(msg)
 
