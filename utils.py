@@ -83,7 +83,7 @@ def write_diff_file(test_infos, test_number):
     diff_file.write(
         "The '-' sign correspond to a line that is expected but don't "
         "appears well or not at all after the extraction.\n"
-        "The '+' sign correcpond to a line that appears after the extraction "
+        "The '+' sign correspond to a line that appears after the extraction "
         "but is not expected.\n")
     diff_file.write(25*'=' + 'Test %d FAILED' %test_number + 25*'=' + '\n')
 
