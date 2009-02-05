@@ -19,9 +19,6 @@ msgstr ""
 msgid "Yi Luo"
 msgstr ""
 
-msgid "Majid Khan"
-msgstr ""
-
 msgid "This is an example of presentation shape used as the class of handout."
 msgstr ""
 

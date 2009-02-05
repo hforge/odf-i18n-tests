@@ -7,8 +7,5 @@ msgstr ""
 msgid "Text centered due to fo:padding"
 msgstr ""
 
-msgid "Thomas Zander"
-msgstr ""
-
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""

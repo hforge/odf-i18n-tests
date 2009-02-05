@@ -19,9 +19,6 @@ msgstr ""
 msgid "Yi Luo"
 msgstr ""
 
-msgid "Majid Khan"
-msgstr ""
-
 msgid "This is an example of showing date and time field in the presentation and in its note."
 msgstr ""
 

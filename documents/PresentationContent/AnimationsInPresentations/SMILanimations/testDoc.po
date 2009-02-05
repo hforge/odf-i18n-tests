@@ -19,9 +19,6 @@ msgstr ""
 msgid "Yi Luo"
 msgstr ""
 
-msgid "Majid Khan"
-msgstr ""
-
 msgid "effect1 activate by mouse click"
 msgstr ""
 

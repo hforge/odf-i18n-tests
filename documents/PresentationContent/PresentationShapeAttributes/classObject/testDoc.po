@@ -19,8 +19,5 @@ msgstr ""
 msgid "Yi Luo"
 msgstr ""
 
-msgid "Majid Khan"
-msgstr ""
-
 msgid "example of objects"
 msgstr ""
