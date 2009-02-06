@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "This is an example of paragraph with font size 12pt, text indent is 1 inch and automatic text indent disabled."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "continue numbering"
 msgstr ""
-
-msgid "Majid Khan"
-msgstr ""

@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "This is an example of paragraph with top margin of 0.2 inch, and bottom margin of 0.1 inch."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

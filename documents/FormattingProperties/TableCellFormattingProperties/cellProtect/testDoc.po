@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "this section is protected."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

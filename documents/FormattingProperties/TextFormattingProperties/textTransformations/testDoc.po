@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "this is an example of text transformation to capitalize."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

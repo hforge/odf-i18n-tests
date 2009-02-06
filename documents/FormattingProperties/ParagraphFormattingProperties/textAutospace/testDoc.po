@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "hello你好hello你好hello你好hello你好"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

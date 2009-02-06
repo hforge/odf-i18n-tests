@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "This is an example of using the fo:text-align-last property to specify how to align the last line of a justified paragraph."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

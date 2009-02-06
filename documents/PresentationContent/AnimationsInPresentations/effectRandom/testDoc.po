@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "Example of effect random"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

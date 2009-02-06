@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "Example of effect lines2"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

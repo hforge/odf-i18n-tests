@@ -27,6 +27,3 @@ msgstr ""
 
 msgid "The columns are 100*, 200*, 300* and 400* wide respectively."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

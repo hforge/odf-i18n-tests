@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "this is an example of table cells with different border type."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

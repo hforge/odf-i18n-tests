@@ -30,6 +30,3 @@ msgstr ""
 
 msgid "automatic..automatic..automatic.."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

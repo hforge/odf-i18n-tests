@@ -27,6 +27,3 @@ msgstr ""
 
 msgid "The sequence of the presentation show is page1, page2, page2, page 1"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "the mouse pointer is displayed as a pen instead of a pointer."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

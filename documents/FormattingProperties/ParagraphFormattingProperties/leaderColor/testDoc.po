@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "this is (tab)<text:tab/>an example of paragraph with tab stop, whose leader line color is green."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

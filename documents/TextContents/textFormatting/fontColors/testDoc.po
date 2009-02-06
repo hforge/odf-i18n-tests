@@ -27,6 +27,3 @@ msgstr ""
 
 msgid "this is black"
 msgstr ""
-
-msgid "Majid Khan"
-msgstr ""

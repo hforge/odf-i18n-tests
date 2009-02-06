@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "This is an example of increasing 200% text width."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

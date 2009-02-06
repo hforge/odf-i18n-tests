@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "this is an example of table with background image."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

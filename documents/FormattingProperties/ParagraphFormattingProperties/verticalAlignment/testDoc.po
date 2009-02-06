@@ -27,6 +27,3 @@ msgstr ""
 
 msgid "This is an example of paragraph with the <text:span text:style-name="T1"> Vertical Alignment of auto.</text:span>"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

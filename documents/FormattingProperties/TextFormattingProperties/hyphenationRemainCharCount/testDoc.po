@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "This is an example of text supporting hyphenation and having 4 hyphenation remain char:"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

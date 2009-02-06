@@ -30,6 +30,3 @@ msgstr ""
 
 msgid "This is an example of text with 900 font weight"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

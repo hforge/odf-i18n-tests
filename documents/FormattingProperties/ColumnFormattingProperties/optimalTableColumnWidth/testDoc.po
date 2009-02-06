@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "this is an example of table that doesn't allow the column width is recalculated automatically if some content in the column changes."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "this is an example of table with a page break before the table."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "top to bottom"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

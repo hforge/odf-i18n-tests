@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "this is an example of table cell with background color and background image."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

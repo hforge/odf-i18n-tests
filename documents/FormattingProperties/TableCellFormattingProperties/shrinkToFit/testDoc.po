@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "the text in this table cell doesn't shrink to fit the size of the cell."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

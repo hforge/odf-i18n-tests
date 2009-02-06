@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "this is an example of table with different types of diagonal line in the table cells."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

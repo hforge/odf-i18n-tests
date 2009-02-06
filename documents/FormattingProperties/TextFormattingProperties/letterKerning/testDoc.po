@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "Tr Ke Yr r, To AY y, AT"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

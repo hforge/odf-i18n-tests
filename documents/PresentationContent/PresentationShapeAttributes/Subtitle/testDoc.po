@@ -4,8 +4,5 @@ msgstr ""
 msgid "subtitle"
 msgstr ""
 
-msgid "Lotzi Boloni"
-msgstr ""
-
 msgid "1"
 msgstr ""

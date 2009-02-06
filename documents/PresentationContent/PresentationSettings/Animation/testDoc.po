@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "Page 2."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

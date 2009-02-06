@@ -27,6 +27,3 @@ msgstr ""
 
 msgid "this is an example of table with the margins alignment."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

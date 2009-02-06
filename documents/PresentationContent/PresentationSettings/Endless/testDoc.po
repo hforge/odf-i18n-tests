@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "The presentation will be shown endless."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

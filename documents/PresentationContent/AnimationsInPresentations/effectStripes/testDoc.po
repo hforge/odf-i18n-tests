@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "Example of stripes"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

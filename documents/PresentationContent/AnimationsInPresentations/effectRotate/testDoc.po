@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "Example of effect rotate2"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

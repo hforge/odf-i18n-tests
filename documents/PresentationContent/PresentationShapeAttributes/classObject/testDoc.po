@@ -16,8 +16,5 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "Yi Luo"
-msgstr ""
-
 msgid "example of objects"
 msgstr ""

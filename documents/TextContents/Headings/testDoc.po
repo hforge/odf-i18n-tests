@@ -16,9 +16,6 @@ msgstr ""
 msgid "Subject of the document"
 msgstr ""
 
-msgid "Majid Khan"
-msgstr ""
-
 msgid "First keyword"
 msgstr ""
 

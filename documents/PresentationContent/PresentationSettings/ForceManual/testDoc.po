@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "slide transition and shape effects must be started separately by the user."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

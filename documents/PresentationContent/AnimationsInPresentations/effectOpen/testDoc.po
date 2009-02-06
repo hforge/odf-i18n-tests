@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "Example of open in horizontal way."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

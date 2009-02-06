@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "(false)"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "This is an example of numbered list."
 msgstr ""
-
-msgid "Majid Khan"
-msgstr ""

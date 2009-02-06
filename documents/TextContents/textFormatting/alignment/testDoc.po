@@ -27,6 +27,3 @@ msgstr ""
 
 msgid "This is justified alignment."
 msgstr ""
-
-msgid "Majid Khan"
-msgstr ""

@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "Example of wavyline2"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

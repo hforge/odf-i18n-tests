@@ -45,6 +45,3 @@ msgstr ""
 
 msgid "This is an example of text with underline, the underline width is 5pt."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

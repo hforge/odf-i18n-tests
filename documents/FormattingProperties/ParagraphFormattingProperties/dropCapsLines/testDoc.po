@@ -27,6 +27,3 @@ msgstr ""
 
 msgid "The number of lines that the dropped characters should encircle is 3."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

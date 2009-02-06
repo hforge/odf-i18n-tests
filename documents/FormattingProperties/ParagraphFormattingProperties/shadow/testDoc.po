@@ -30,6 +30,3 @@ msgstr ""
 
 msgid "This is an example of paragraph with shade in border."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

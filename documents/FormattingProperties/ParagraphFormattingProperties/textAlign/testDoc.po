@@ -33,6 +33,3 @@ msgstr ""
 
 msgid "This is an example of paragraph with text align of justify."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

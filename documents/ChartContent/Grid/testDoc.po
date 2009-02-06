@@ -1,6 +1,3 @@
-msgid "Yi Luo"
-msgstr ""
-
 msgid "5"
 msgstr ""
 

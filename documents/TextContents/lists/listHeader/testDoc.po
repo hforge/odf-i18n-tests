@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "This is an example of list header."
 msgstr ""
-
-msgid "Majid Khan"
-msgstr ""

@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "This is an example that set font pitch to variable."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

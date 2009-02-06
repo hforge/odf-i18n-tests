@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "This is an example of paragraph that the font metric of the actual font is taken into account."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

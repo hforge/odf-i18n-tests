@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "Example of move"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

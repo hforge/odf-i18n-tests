@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "3 seconds later than the last page, the presentation will start again."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

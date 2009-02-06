@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "The text style of dropped character is defined to be T2."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

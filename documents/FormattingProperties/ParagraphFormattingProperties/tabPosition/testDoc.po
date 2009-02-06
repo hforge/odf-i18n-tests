@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "this is (tab)<text:tab/>an example of paragraph whose (tab)<text:tab/>position of tab stop is 2in."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

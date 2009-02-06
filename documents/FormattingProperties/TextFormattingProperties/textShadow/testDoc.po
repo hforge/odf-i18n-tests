@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "This is an example of text with shadow 2pt 2pt."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

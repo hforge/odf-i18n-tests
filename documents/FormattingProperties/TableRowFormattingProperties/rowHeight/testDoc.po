@@ -27,6 +27,3 @@ msgstr ""
 
 msgid "a lot of content and exceed the fixed height."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

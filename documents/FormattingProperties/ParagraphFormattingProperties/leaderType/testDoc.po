@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "this is (tab)<text:tab/>an example of paragraph with a double leader line."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

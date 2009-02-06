@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

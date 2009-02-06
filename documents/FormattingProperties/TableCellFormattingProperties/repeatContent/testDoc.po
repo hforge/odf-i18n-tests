@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "style:repeat-content has been set to false."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

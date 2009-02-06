@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "this is (tab)<text:tab/>an example of paragraph with a tab stop at 3in and its tab type is right."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

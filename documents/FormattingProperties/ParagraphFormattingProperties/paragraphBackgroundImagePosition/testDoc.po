@@ -30,6 +30,3 @@ msgstr ""
 
 msgid "This is an example of paragraph with background image, and the position of background image is center left."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

@@ -33,6 +33,3 @@ msgstr ""
 
 msgid "The line arrangement is bottom only."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

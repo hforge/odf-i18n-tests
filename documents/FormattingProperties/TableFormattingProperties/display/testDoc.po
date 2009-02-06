@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "this is an example that table is not displayed."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

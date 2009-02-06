@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "This is an example of using font family generic in text."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

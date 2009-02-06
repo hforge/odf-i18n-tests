@@ -16,9 +16,6 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "Yi Luo"
-msgstr ""
-
 msgid "This is an example of presentation shape used as the class of handout."
 msgstr ""
 

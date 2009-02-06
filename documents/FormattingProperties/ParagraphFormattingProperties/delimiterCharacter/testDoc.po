@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "this is (tab)<text:tab/>an example of paragraph with a tab type char and its char is \"c\"."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

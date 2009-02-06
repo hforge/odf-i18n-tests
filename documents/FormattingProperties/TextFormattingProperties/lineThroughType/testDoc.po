@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "this is an example of text with double line trough"
 msgstr ""
-
-msgid "Majid Khan"
-msgstr ""

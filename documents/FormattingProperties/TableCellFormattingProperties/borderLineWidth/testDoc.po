@@ -30,6 +30,3 @@ msgstr ""
 
 msgid "double left only"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

@@ -42,6 +42,3 @@ msgstr ""
 
 msgid "this is an example of text with line through whose style is 30%."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

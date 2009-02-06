@@ -30,6 +30,3 @@ msgstr ""
 
 msgid "cell number4"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

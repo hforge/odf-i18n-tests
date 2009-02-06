@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "Example of effect checkerboard2"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

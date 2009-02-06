@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "This is an example of paragraph with a fixed distance between two lines.(7pt)"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

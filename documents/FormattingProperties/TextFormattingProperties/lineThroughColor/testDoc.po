@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "this is an example of text with red line through."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

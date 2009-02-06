@@ -30,6 +30,3 @@ msgstr ""
 
 msgid "This is an example of paragraph with background image, and the opacity of background image is 100%."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

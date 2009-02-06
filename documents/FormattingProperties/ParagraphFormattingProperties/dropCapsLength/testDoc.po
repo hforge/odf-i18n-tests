@@ -27,6 +27,3 @@ msgstr ""
 
 msgid "This is also an example of drop caps with length of 3."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

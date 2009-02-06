@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "This test document checks predefined meta elements of a document"
 msgstr ""
-
-msgid "Majid Khan"
-msgstr ""

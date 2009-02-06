@@ -33,6 +33,3 @@ msgstr ""
 
 msgid "the right spacing around the paragraph is 1 inch."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

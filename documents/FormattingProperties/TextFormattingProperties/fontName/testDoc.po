@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "This is an example of assign a font to the text."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

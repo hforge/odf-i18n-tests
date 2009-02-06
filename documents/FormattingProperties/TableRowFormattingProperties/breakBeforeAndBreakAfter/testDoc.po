@@ -18,6 +18,3 @@ msgstr ""
 
 msgid "this is an example that insert a page break before and after the table row."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

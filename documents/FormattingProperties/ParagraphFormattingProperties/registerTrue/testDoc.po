@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "This is an example of set register-false to be false."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

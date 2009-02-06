@@ -24,6 +24,3 @@ msgstr ""
 
 msgid "This is an example of paragraph with left margin of 2 inch and right margin of 1 inch."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

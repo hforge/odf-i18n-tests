@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "the mouse pointer is invisible during a presentation."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

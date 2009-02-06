@@ -30,6 +30,3 @@ msgstr ""
 
 msgid "center"
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""

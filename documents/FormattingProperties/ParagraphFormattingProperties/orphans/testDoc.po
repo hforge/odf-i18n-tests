@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "This is an example to specify the minimum number of lines required at the bottom of a page to avoid paragraph orphans."
 msgstr ""
-
-msgid "Yi Luo"
-msgstr ""
