@@ -1,0 +1,7 @@
+
+This is a list of erratas found in the upstream test suite.
+
+- General/DocumentStructure/MetaData/UserDefined
+
+  Uses the 'meta:type' attribute, which does not exist.  It should be
+  'meta:value-type'.
