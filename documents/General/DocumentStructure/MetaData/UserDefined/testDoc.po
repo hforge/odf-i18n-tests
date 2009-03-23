@@ -1,14 +1,2 @@
-msgid "Value 1"
-msgstr ""
-
-msgid "1.234"
-msgstr ""
-
-msgid "2005-12-19T12:50:56"
-msgstr ""
-
-msgid "true"
-msgstr ""
-
 msgid "This test document checks user defined meta elements of a document"
 msgstr ""
