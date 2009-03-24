@@ -16,14 +16,17 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "This text displays normally:"
+msgid ""
+"This text displays normally: "
+"Test Test Test Test"
 msgstr ""
 
-msgid "Test Test Test Test"
+msgid ""
+"This text is hidden: "
+"Test Test Test Test"
 msgstr ""
 
-msgid "This text is hidden:"
-msgstr ""
-
-msgid "This text is conditional hidden:"
+msgid ""
+"This text is conditional hidden: "
+"Test Test Test Test"
 msgstr ""

@@ -16,11 +16,12 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "This is an example of text without letter kerning:"
+msgid ""
+"This is an example of text without letter kerning: "
+"Tr Ke Yr r, To AY y, AT"
 msgstr ""
 
-msgid "This is an example of text with letter kerning:"
-msgstr ""
-
-msgid "Tr Ke Yr r, To AY y, AT"
+msgid ""
+"This is an example of text with letter kerning: "
+"Tr Ke Yr r, To AY y, AT"
 msgstr ""

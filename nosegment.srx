@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<srx version="2.0"
+  xmlns="http://www.lisa.org/srx20"
+  xsi:schemaLocation="http://www.lisa.org/srx20 srx20.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <header segmentsubflows="yes" cascade="yes" />
+  <body>
+    <languagerules></languagerules>
+    <maprules></maprules>
+  </body>
+</srx>

@@ -19,11 +19,13 @@ msgstr ""
 msgid "This is a example of presentation."
 msgstr ""
 
-msgid "you can only change page by pressing page down button."
-msgstr ""
-
 msgid "Page 2."
 msgstr ""
 
 msgid "the manual transition by a mouse click during a presentation is disabled."
+msgstr ""
+
+msgid ""
+"the manual transition by a mouse click during a presentation is disabled. "
+"you can only change page by pressing page down button."
 msgstr ""

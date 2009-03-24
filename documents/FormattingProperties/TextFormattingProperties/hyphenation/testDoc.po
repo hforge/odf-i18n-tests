@@ -16,11 +16,13 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "This is an example of text don't supporting hyphenation:"
+msgid ""
+"This is an example of text don't supporting hyphenation: "
+"hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation"
 msgstr ""
 
-msgid "hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation"
-msgstr ""
 
-msgid "This is an example of text supporting hyphenation:"
+msgid ""
+"This is an example of text supporting hyphenation: "
+"hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation hyphenation"
 msgstr ""

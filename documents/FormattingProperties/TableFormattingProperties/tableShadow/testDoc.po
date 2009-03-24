@@ -16,14 +16,17 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "this is an example of table with the shadow."
+msgid ""
+"this is an example of table with the shadow. "
+"The shadow type is \"#000000 2pt 2pt\"."
 msgstr ""
 
-msgid "The shadow type is \"#000000 2pt 2pt\"."
+msgid ""
+"this is an example of table with the shadow. "
+"The shadow type is \"#000000 4pt 4pt\"."
 msgstr ""
 
-msgid "The shadow type is \"#000000 4pt 4pt\"."
-msgstr ""
-
-msgid "The shadow type is \"#000000 -0.1in 0.1in\"."
+msgid ""
+"this is an example of table with the shadow. "
+"The shadow type is \"#000000 -0.1in 0.1in\"."
 msgstr ""

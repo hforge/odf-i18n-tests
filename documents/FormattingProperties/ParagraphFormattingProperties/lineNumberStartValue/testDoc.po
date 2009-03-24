@@ -16,7 +16,10 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "This is an example of paragraph that lines are numbered."
+msgid ""
+"This is an example of paragraph that lines are numbered. "
+"This is an example of paragraph that lines are numbered. "
+"This is an example of paragraph that lines are numbered."
 msgstr ""
 
 msgid "Ready to start line numbering from 30."

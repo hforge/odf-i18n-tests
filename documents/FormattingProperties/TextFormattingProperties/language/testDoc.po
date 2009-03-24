@@ -16,10 +16,9 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "This is an example of text with different language."
-msgstr ""
-
-msgid "the following is Chinese word which means \"how are you\"."
+msgid ""
+"This is an example of text with different language. "
+"the following is Chinese word which means \"how are you\"."
 msgstr ""
 
 msgid "你好"

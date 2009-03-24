@@ -16,10 +16,9 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "This is an example of table, the source align property in first 2 cells are \"fix\", which means the alignment depends on fo:text-align."
-msgstr ""
-
-msgid "The second 2 cells are \"value-type\" which means the text alignment depends on the value-type of the cell."
+msgid ""
+"This is an example of table, the source align property in first 2 cells are \"fix\", which means the alignment depends on fo:text-align. "
+"The second 2 cells are \"value-type\" which means the text alignment depends on the value-type of the cell."
 msgstr ""
 
 msgid "left alignment"

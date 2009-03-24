@@ -16,11 +16,12 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "When you define a paragraph, Paragraph Style, or a Page Style as register-true, the base lines of the affected characters are aligned to a vertical page grid, regardless of font size or of the presence of graphics."
+msgid ""
+"When you define a paragraph, Paragraph Style, or a Page Style as register-true, the base lines of the affected characters are aligned to a vertical page grid, regardless of font size or of the presence of graphics. "
+"This is an example of set register-true to be true."
 msgstr ""
 
-msgid "This is an example of set register-true to be true."
-msgstr ""
-
-msgid "This is an example of set register-false to be false."
+msgid ""
+"When you define a paragraph, Paragraph Style, or a Page Style as register-true, the base lines of the affected characters are aligned to a vertical page grid, regardless of font size or of the presence of graphics. "
+"This is an example of set register-false to be false."
 msgstr ""

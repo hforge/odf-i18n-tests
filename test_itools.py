@@ -18,16 +18,20 @@
 from itools.handlers import get_handler
 from itools.gettext.po import encode_source
 import itools.odf
+from itools.srx import SRXFile
 
 # Import from odf i18n tests
 from utils import start_test
 
 
+srx = SRXFile('nosegment.srx')
+
+
 def itools_handler(filename):
     handler = get_handler(filename)
-    return [encode_source(unit)
-            for unit, context, reference in handler.get_units()]
+    units = handler.get_units(srx)
+    return [ encode_source(unit) for unit, context, reference in units ]
+
 
 if __name__ == '__main__':
     start_test(itools_handler)
-

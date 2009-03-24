@@ -16,10 +16,9 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "This is an example of paragraph whether add space between Asian, western, and complex text."
-msgstr ""
-
-msgid "The first one have no space between English and Chinese."
+msgid ""
+"This is an example of paragraph whether add space between Asian, western, and complex text. "
+"The first one have no space between English and Chinese."
 msgstr ""
 
 msgid "hello你好hello你好hello你好hello你好"

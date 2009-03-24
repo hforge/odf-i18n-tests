@@ -16,14 +16,12 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "this is an example of table with different column width."
+msgid ""
+"this is an example of table with different column width. "
+"The columns are 0.5 inch, 1 inch, 1.5 inch and 2 inch wide."
 msgstr ""
 
-msgid "The columns are 0.5 inch, 1 inch, 1.5 inch and 2 inch wide."
-msgstr ""
-
-msgid "this is an example of table with different relative column width."
-msgstr ""
-
-msgid "The columns are 100*, 200*, 300* and 400* wide respectively."
+msgid ""
+"this is an example of table with different relative column width. "
+"The columns are 100*, 200*, 300* and 400* wide respectively."
 msgstr ""

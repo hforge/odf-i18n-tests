@@ -7,7 +7,9 @@ msgstr ""
 msgid "One space before this paragraph."
 msgstr ""
 
-msgid "Ten <text:s text:c=\"9\"/> spaces with &lt;text:s text:c="9" />;"
+msgid ""
+"Ten <text:s text:c=\"9\"/> spaces with &lt;text:s text:c="9" />; "
+"with one default space."
 msgstr ""
 
 msgid "Ten<text:s text:c=\"10\"/>spaces with &lt;text:s text:c="10" />."
@@ -35,7 +37,4 @@ msgid "No break space  "
 msgstr ""
 
 msgid "Majid Ali Khan"
-msgstr ""
-
-msgid "with one default space."
 msgstr ""

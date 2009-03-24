@@ -16,53 +16,46 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "This is an example of paragraph with writing mode of lr-tb."
+msgid ""
+"This is an example of paragraph with writing mode of lr-tb. "
+"Inline components and text within a line are written left-to-right. "
+"Lines and blocks are placed top-to-bottom."
 msgstr ""
 
-msgid "Inline components and text within a line are written left-to-right."
+msgid ""
+"This is an example of paragraph with writing mode of rl-tb. "
+"Inline components and text within a line are written right-to-left. "
+"Lines and blocks are placed top-to-bottom."
 msgstr ""
 
-msgid "This is an example of paragraph with writing mode of rl-tb."
+msgid ""
+"This is an example of paragraph with writing mode of tb-rl. "
+"Inline components and text within a line are written top-to-bottom. "
+"Lines and blocks are placed right-to-left."
 msgstr ""
 
-msgid "Inline components and text within a line are written right-to-left."
+msgid ""
+"This is an example of paragraph with writing mode of tb-lr. "
+"Inline components and text within a line are written top-to-bottom. "
+"Lines and blocks are placed left-to-right."
 msgstr ""
 
-msgid "Lines and blocks are placed top-to-bottom."
+msgid ""
+"This is an example of paragraph with writing mode of lr. "
+"Shorthand for lr-tb."
 msgstr ""
 
-msgid "This is an example of paragraph with writing mode of tb-rl."
+msgid ""
+"This is an example of paragraph with writing mode of rl. "
+"Shorthand for rl-tb."
 msgstr ""
 
-msgid "Inline components and text within a line are written top-to-bottom."
+msgid ""
+"This is an example of paragraph with writing mode of tb. "
+"Shorthand for tb-rl."
 msgstr ""
 
-msgid "Lines and blocks are placed right-to-left."
-msgstr ""
-
-msgid "This is an example of paragraph with writing mode of tb-lr."
-msgstr ""
-
-msgid "Lines and blocks are placed left-to-right."
-msgstr ""
-
-msgid "This is an example of paragraph with writing mode of lr."
-msgstr ""
-
-msgid "Shorthand for lr-tb."
-msgstr ""
-
-msgid "This is an example of paragraph with writing mode of rl."
-msgstr ""
-
-msgid "Shorthand for rl-tb."
-msgstr ""
-
-msgid "This is an example of paragraph with writing mode of tb."
-msgstr ""
-
-msgid "Shorthand for tb-rl."
-msgstr ""
-
-msgid "the writing mode is inherited from the page that contains the paragraph."
+msgid ""
+"This is an example of paragraph with writing mode of tb. "
+"the writing mode is inherited from the page that contains the paragraph."
 msgstr ""

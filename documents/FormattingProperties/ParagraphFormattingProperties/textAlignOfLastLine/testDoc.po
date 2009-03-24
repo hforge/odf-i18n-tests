@@ -16,5 +16,7 @@ msgstr ""
 msgid "Copyright (C) 2006 Intel Corporation."
 msgstr ""
 
-msgid "This is an example of using the fo:text-align-last property to specify how to align the last line of a justified paragraph."
+msgid ""
+"This is an example of using the fo:text-align-last property to specify how to align the last line of a justified paragraph. "
+"This is an example of using the fo:text-align-last property to specify how to align the last line of a justified paragraph."
 msgstr ""

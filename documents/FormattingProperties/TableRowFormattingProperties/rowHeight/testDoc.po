@@ -19,11 +19,16 @@ msgstr ""
 msgid "this is an example of table with minimum row height of 1cm and fixed row height of 2cm."
 msgstr ""
 
-msgid "a lot of content but not exceed the fixed height."
+msgid ""
+"a lot of content but not exceed the fixed height. "
+"a lot of content but not exceed the fixed height."
 msgstr ""
 
 msgid "this is an example of table with minimum and fixed row height of 1cm."
 msgstr ""
 
-msgid "a lot of content and exceed the fixed height."
+msgid ""
+"a lot of content and exceed the fixed height. "
+"a lot of content and exceed the fixed height. "
+"a lot of content and exceed the fixed height."
 msgstr ""
