@@ -35,6 +35,3 @@ msgstr ""
 
 msgid "No break space  "
 msgstr ""
-
-msgid "Majid Ali Khan"
-msgstr ""
