@@ -21,6 +21,7 @@ from subprocess import Popen, PIPE
 from itools.xliff import XLFFile
 from itools.vfs import remove
 from itools.gettext.po import encode_source
+from itools.srx.segment import collapse, SPACE
 
 # Import from odf i18n tests
 from utils import start_test
@@ -28,8 +29,9 @@ from utils import start_test
 
 def ttk_odf2xliff_handler(filename):
     # Make the xliff file
-    process = Popen(['odf2xliff', filename, 'tmp.xlf'],
-                    stdout=PIPE, stderr=PIPE)
+    command = ['odf2xliff', filename, 'tmp.xlf']
+#    command = ['odf2xliff', '--engine=itools', filename, 'tmp.xlf']
+    process = Popen(command, stdout=PIPE, stderr=PIPE)
     if process.wait() != 0:
         raise ValueError, '"%s" is malformed' % filename
 
@@ -38,7 +40,10 @@ def ttk_odf2xliff_handler(filename):
     xlf_file = XLFFile('tmp.xlf')
     for a_file in xlf_file.files.values():
         for unit in a_file.body.values():
-            units.append(encode_source(unit.source))
+            unit = encode_source(unit.source)
+#            unit = unit.strip(SPACE)
+#            unit = collapse(unit)
+            units.append(unit)
 
     # Remove the tmp file
     remove('tmp.xlf')
