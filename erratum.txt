@@ -5,3 +5,5 @@ This is a list of erratas found in the upstream test suite.
 
   Uses the 'meta:type' attribute, which does not exist.  It should be
   'meta:value-type'.
+
+  http://i2lab.ucf.edu/pipermail/opendocument-sample/2009-March/

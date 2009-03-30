@@ -1,62 +1,66 @@
-=============================
-====== ODF i18n tests =======
-=============================
 
-General description
----------------------
+The purpose of this test suite is to check the correctness of tools that
+extract text from an ODF document for translation.  Currently there are
+two scripts to test two toolsets; this is the procedure for testing:
 
-The test suite allow to check and validate the performance of itools.odf package
-that allow to extract translatable messages from an ODF document. For more
-informations see the website:
+1. Install itools & the translate toolkit, download from:
 
-    http://www.ikaaro.org/odf/;view
+   http://www.hforge.org/itools
+   http://translate.sourceforge.net/wiki/toolkit/index
 
-For momment, the units tests used a set of sample documents for the OpenDocument
-specification:
+2. Run the tests:
 
-    http://develop.opendocumentfellowship.com/testsuite/testcases/
+  $ python test_itools.py
+  $ python test_ttk.py
+
+There are 226 test cases, the input for each test is an ODF document and
+the output is a PO file.
+
+The test suite is available online for browsing:
+
+  http://www.hforge.org/odf-i18n-tests
+
+
+Credits
+=======
+
+This test suite is derived from the ODF test suite of the OpenDocument
+Fellowship:
+
+  http://develop.opendocumentfellowship.com/testsuite/
+
+We reproduce here the authorship of the original work:
+
+ "The set of sample documents was developed at the Networking and Mobile
+  Computing Laboratory at the School of Electrical Engineering and Computer
+  Science of the University of Central Florida.
+
+  Developed by: Yi Luo and Majid A. Khan under the supervision of Lotzi
+  Bölöni."
+
+This derivative work was a deliverable of the OpenDocument Translation
+Converter" [1] project sponsored by the NLnet foundation [2], developed
+by the project partner Itaapy [3] and assisted by the project partner
+translate.org.za [4].
+
+Working at Itaapy, Romain Gauthier did most of the work, he selected the
+relevant test cases from the original test suite and added by hand the
+expected PO files.  Other people involved include J. David Ibáñez, David
+Versmisse, Gautier Hayoun and Sylvain Taverne.
+
+[1] http://translate.sourceforge.net/wiki/developers/projects/odf
+[2] http://www.nlnet.nl/
+[3] http://www.itaapy.com/
+[4] http://translate.org.za/
 
 
 License
-----------
+=======
 
-The odf-i18n-test testsuite and all data and files related are licensed under the
-Creative Commons Attribution 3.0 licence. In short, this means you can freely
-reuse and distribute this content, also commercially, for as long you provide a
-proper attribution.
-for more details, see:
+This test suite is available under the terms and conditions of the Creative
+Commons Attribution 3.0 Unported license.  See the LICENSE.txt file for
+further details, or check the license online:
 
-    http://creativecommons.org/licenses/by/3.0/
+  http://creativecommons.org/licenses/by/3.0/
+  http://creativecommons.org/licenses/by/3.0/legalcode
 
-The odf-i18n-test testsuite, and especially the ODF documents, are based on
-another testsuite, available here:
-
-    http://develop.opendocumentfellowship.com/testsuite/
-
-This testsuite is also licensed under the Creative Commons Attribution license
-in the 2.5 version.
-for more details, see:
-
-    http://develop.opendocumentfellowship.com/testsuite/LICENSE.html
-    http://creativecommons.org/licenses/by/2.5/
-
-
-Install & Test
------------------------
-
-You have to install itools (dev version - master branch):
-
-    $ git-clone http://lleu.org/itools.git
-    $ python setup.py install
-
-To launch unitests you just have to type:
-
-    $ python test_itools.py
-
-
-Copyright
--------------
-
-  - Romain Gauthier <romain@itaapy.com>
-  - Juan David Ibáñez Palomar <jdavid@itaapy.com>
-  - Sylvain Taverne <sylvain@itaapy.com>
