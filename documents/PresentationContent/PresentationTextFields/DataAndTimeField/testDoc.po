@@ -21,6 +21,3 @@ msgstr ""
 
 msgid "."
 msgstr ""
-
-msgid "&lt;number>"
-msgstr ""

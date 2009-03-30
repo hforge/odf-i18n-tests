@@ -3,6 +3,3 @@ msgstr ""
 
 msgid "subtitle"
 msgstr ""
-
-msgid "1"
-msgstr ""

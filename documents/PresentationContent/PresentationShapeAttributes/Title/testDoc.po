@@ -1,5 +1,2 @@
 msgid "Title"
 msgstr ""
-
-msgid "1"
-msgstr ""
