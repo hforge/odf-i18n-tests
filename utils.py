@@ -22,28 +22,24 @@ from sys import stderr, stdout
 
 # Import from itools
 from itools.handlers import get_handler
-from itools.odf import ODTFile, ODPFile, ODSFile
+from itools.odf.odf import ODFFile
+from itools.uri import get_uri_path, resolve_uri
 from itools import vfs
 
 
 def get_tests():
-    """Return list of tuple
-      [(odf_filename1, po_handler1),
-       (odf_filename2, po_handler2),
-        ...]
+    """Returns list of tuples:
+
+        [(odf_path, po_handler), ...]
     """
-    result = []
     # We traverse all ODF documents
-    for handler in vfs.traverse('./documents/'):
-        handler = get_handler(handler.path)
-        is_odf_document = isinstance(handler, (ODTFile, ODPFile, ODSFile))
-        if not is_odf_document:
+    for odf_uri in vfs.traverse('./documents/'):
+        odf_handler = get_handler(odf_uri)
+        if not isinstance(odf_handler, ODFFile):
             continue
         # We found a ODF Document, We search the corresponding PO file
-        po_uri = handler.uri.resolve('%s.po' % 'testDoc')
-        po_handler = get_handler(po_uri)
-        result.append((str(handler.uri.path), po_handler))
-    return result
+        po_uri = resolve_uri(odf_uri, 'testDoc.po')
+        yield get_uri_path(odf_uri), get_handler(po_uri)
 
 
 
@@ -94,22 +90,22 @@ def start_test(odf_handler):
     # Find test files
     print 'Searching for ODF files...'
     unitests = get_tests()
+    unitests = list(unitests)
     nb_tests = len(unitests)
     print 'Number of files found: %d' % nb_tests
 
     test_number = 0
     msgs_error = []
-    for odf_filename, po_handler in unitests:
-        test_number += 1
-
+    for odf_path, po_handler in unitests:
         # Progress bar
+        test_number += 1
         progress(test_number, nb_tests)
 
         # Call ODF handler
         try:
-            odf_sources = odf_handler(odf_filename)
+            odf_sources = odf_handler(odf_path)
         except:
-            print 'ERROR with test %d / "%s"' % (test_number,odf_filename)
+            print 'ERROR with test %d / "%s"' % (test_number, odf_path)
             continue
 
         # Post-process the results
@@ -125,10 +121,11 @@ def start_test(odf_handler):
             continue
 
         # Error. Create a diff report for the current test.
-        test_name = str(odf_filename).split('/')[-2]
+        test_name = odf_path.split('/')[-2]
         filename = 'test_%d_%s.txt' % (test_number, test_name)
-        write_diff_file(test_number, filename, odf_filename,
-                        po_handler.uri.path, odf_sources, po_sources)
+        po_path = get_uri_path(po_handler.uri)
+        write_diff_file(test_number, filename, odf_path, po_path, odf_sources,
+                        po_sources)
         # Inform the user that there where failures
         msgs_error.append('results/%s\n' % filename)
 
